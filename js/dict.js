@@ -573,7 +573,7 @@ export default [
     {en: "to mastermind", ru: "разрабатывать и осуществлять хитрый план"},
     {en: "suspect", ru: "подозрительный, подозреваемый"},
     {en: "to suspect", ru: "подозревать"},
-    {en: "godhood", ru: "божественность"},
+    {en: "a godhood", ru: "божественность"},
     {en: "to blink", ru: "моргать"},
     {en: "to growl", ru: "рычать"},
     {en: "a growl", ru: "рычание"},
